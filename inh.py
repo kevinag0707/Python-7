@@ -1,0 +1,5 @@
+
+
+class employee{
+	int salary 
+}
